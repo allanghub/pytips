@@ -1,6 +1,5 @@
 # 收集python小技巧
-## 这是小标题
-### 这是更小的标题
+## 抓包
 
-1. tips 1
-2. tips 2
+1. selenium
+    https://blog.csdn.net/TestingGDR/article/details/81950593
